@@ -2,7 +2,13 @@
 
 [![build-ucore](https://github.com/bsherman/ucore-main/actions/workflows/build.yml/badge.svg)](https://github.com/bsherman/ucore-main/actions/workflows/build.yml)
 
-A WIP common main image for all other Ucore images.
+## WARNING: STOP USING ME
+
+Builds will continue to be generated but all development efforts for uCore have moved to:
+
+https://github.com/ublue-os/ucore
+
+
 
 ## What is this?
 
