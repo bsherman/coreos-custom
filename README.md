@@ -4,7 +4,7 @@
 
 ## WARNING: STOP USING ME
 
-Builds will continue to be generated but all development efforts for uCore have moved to:
+Builds will NO LONGER be generated as all development efforts for uCore have moved to:
 
 https://github.com/ublue-os/ucore
 
